@@ -114,7 +114,7 @@ img.g-img + div {
   background: #17bebb;
 }
 
-.bg_white {
+.bg-white {
   background: #ffffff;
 }
 .first-bg{
@@ -123,7 +123,7 @@ img.g-img + div {
 .second-bg{
   padding: 2em 0 2em 0;
 }
-.bg_white .left{
+.bg-white .left{
   text-align:left;
   padding: 0 2.5em;
   color: #000;
@@ -131,7 +131,7 @@ img.g-img + div {
   width:80%;
 }
 
-.bg_white .right{
+.bg-white .right{
   text-align:right;
   padding: 0 2.5em;
   color: #000;
@@ -139,15 +139,15 @@ img.g-img + div {
   width:20%;
 }
 
-.bg_light {
+.bg-light {
   background: #f7fafa;
 }
 
-.bg_black {
+.bg-black {
   background: #000000;
 }
 
-.bg_dark {
+.bg-dark {
   background: rgba(0, 0, 0, 0.8);
 }
 
