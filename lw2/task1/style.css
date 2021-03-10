@@ -1,0 +1,87 @@
+body {
+  font-family: "Josefin Sans";
+  margin: 80px auto;
+  width: 1440px;
+  height: 880px;
+}
+.aboute {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.aboute-txt {
+  font-size: 86px;
+  display: flex;
+  padding: 0px 16px;
+  margin: 0px 16px;
+}
+.underline {
+  padding: 0px 16px;
+  margin: 0px 16px;
+  border-bottom: 12px solid currentColor;
+}
+.underline-color {
+  border-bottom-color: #ED6041;
+  left: 0;
+  bottom: 0;
+  height: 75px;
+  width: 100%;
+
+}
+.aboute-description {
+  font-size: 18px;
+  line-height: 28px;
+  width: 652px;
+  margin: 12px 0px;
+}
+.items {
+  width: 100%;
+  margin: 80px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item_img {
+  width: 208px;
+  height: 208px;
+}
+
+.item {
+  display: flex;
+  margin: 0 30px 40px 0;
+}
+
+.item-text {
+  margin-left: 24px;
+  max-width: 388px;
+}
+
+.item-tittle {
+  width: 388px;
+  height: 40px;
+  font-size: 35px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  margin: 4px 0px;
+}
+
+.item-description {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+
+.button {
+  border: none;
+  width: 144px;
+  height: 36px;
+  background: #EC6041;
+  color: #ffffff;
+  text-transform: uppercase;
+  box-shadow: 4px 4px 0px #F1876F, 8px 8px 0px #F5AE9E;
+}
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
